@@ -8,5 +8,3 @@ In VS Code
 1. First install Streamlit:  pip install streamlit
 2. Run in command prompt: streamlit run intro.py
 
-
-![]("C:\Users\piyus\Pictures\Screenshots\Screenshot 2025-07-17 201217.png")
