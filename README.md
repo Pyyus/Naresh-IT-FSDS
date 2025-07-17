@@ -7,3 +7,6 @@ The project i created to find the square of number between 0 to 100 using Stream
 In VS Code 
 1. First install Streamlit:  pip install streamlit
 2. Run in command prompt: streamlit run intro.py
+
+
+![]("C:\Users\piyus\Pictures\Screenshots\Screenshot 2025-07-17 201217.png")
